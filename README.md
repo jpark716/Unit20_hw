@@ -37,7 +37,7 @@ Withdrawal 2: Withdrawing 10 ether into accountTwo:
 
 ![withdraw2](https://github.com/jpark716/Unit20_hw/blob/main/withdraw2.png?raw=true)
 
-As shown above, the smart contract functionality was proven to work effectively.
+
 
 ## Tech Used
 Remix IDE - the website to create, compile and deploy a smart contract. https://remix.ethereum.org/
